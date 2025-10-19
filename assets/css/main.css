@@ -82,6 +82,14 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+	h2.alt {
+		color: black;
+		font-weight: bold;
+	}
+	header.alt strong {
+		color: black;
+	}
+
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
